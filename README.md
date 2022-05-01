@@ -1,2 +1,1 @@
-# proyecto-c19
-Proyecto de la clase 19 - 
+# C19_LP_AA1
